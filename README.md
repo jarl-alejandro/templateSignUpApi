@@ -89,7 +89,7 @@ Formulario newpassword
 
 # Error Codes
 
-No parece haber ningun herror grave pero falta mucho testear y no es muy seguro ya que permite cualquier entrada como contraseña e email.
+No parece haber ningun error grave a parte de los ortograficos... aun así falta mucho testear y no es muy seguro ya que permite cualquier entrada como contraseña e email.
 
 # Suport
 
