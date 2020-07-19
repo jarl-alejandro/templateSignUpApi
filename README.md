@@ -1,7 +1,7 @@
 # Introduccción
 
 Sistema de autenticacion REST de dos pasos.
-Una pequeña variante a los sistemas mas populares creado desde cero.
+Una pequeña variante a los sistemas más populares creado desde cero.
 
 1. Escribe un email
 2. Confirma tu email
@@ -12,7 +12,7 @@ SignIn, SignUp and Reset Password Template API node-nodemailer-jwt
 
 # Sobre el Template
 
-Sientete libre de hacer un fork o pull requests con mejoras de seguridad, de codigo y mejores practicas. Toda ayuda sera bien recibida.
+Siéntete libre de hacer un fork o pull requests con mejoras de seguridad, de código y mejores prácticas. Toda ayuda sera bien recibida.
 
 Dependencias
 
@@ -29,7 +29,7 @@ Dependencias
   },
 ```
 
-nodemailer esta configurado para usar gmail. Puede ver la documentación de https://nodemailer.com/usage/using-gmail/ para mas información.
+nodemailer está configurado para usar gmail. Puede ver la documentación de https://nodemailer.com/usage/using-gmail/ para mas información.
 
 ## Variables de entorno
 
@@ -42,7 +42,7 @@ GEMAIL_SENDER=example@gmail.com
 GEMAIL_PASSWORD=password gmail
 ```
 
-Hay metodos sin usar que son una guia para desarrolladores nuevos. Ademas de algunos ovbios comentarios.
+Hay métodos sin usar que son una guia para desarrolladores nuevos. Además de algunos obvios comentarios.
 
 # Rutas
 
@@ -89,9 +89,10 @@ Formulario newpassword
 
 # Error Codes
 
-No parece haber ningun error grave a parte de los ortograficos... aun así falta mucho testear y no es muy seguro ya que permite cualquier entrada como contraseña e email.
+No parece haber ningún error grave a parte de los ortográficos... aun así falta mucho testear y no es muy seguro ya que permite cualquier entrada como contraseña e email.
 
 # Suport
 
-Si esto te ha sido de utilidad. concidera donar \$1 USD
+Si esto te ha sido de utilidad. considera donar \$1 USD
 https://www.paypal.me/suportSignUpApi
+
